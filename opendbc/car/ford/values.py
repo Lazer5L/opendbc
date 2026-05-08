@@ -129,6 +129,7 @@ class CAR(Platforms):
     [
       FordCarDocs("Ford Escape 2020-22", hybrid=True, plug_in_hybrid=True),
       FordCarDocs("Ford Kuga 2020-23", "Adaptive Cruise Control with Lane Centering", hybrid=True, plug_in_hybrid=True),
+      FordCarDocs("Lincoln Corsair 2020-22", "Co-Pilot360 1.5 Plus", hybrid=True, plug_in_hybrid=True), # Hybrid: Grand Touring only
     ],
     CarSpecs(mass=1750, wheelbase=2.71, steerRatio=16.7),
   )

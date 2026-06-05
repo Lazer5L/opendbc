@@ -59,8 +59,8 @@
 |Ford|Explorer Hybrid 2020-24|Co-Pilot360 Assist+|[Upstream](#upstream)|
 |Ford|F-150 2021-23|Co-Pilot360 Assist 2.0|[Upstream](#upstream)|
 |Ford|F-150 Hybrid 2021-23|Co-Pilot360 Assist 2.0|[Upstream](#upstream)|
-|Ford|Focus 2018|Adaptive Cruise Control with Lane Centering|[Upstream](#upstream)|
-|Ford|Focus Hybrid 2018|Adaptive Cruise Control with Lane Centering|[Upstream](#upstream)|
+|Ford|Focus 2018-22|Adaptive Cruise Control with Lane Centering|[Upstream](#upstream)|
+|Ford|Focus Hybrid 2018-22|Adaptive Cruise Control with Lane Centering|[Upstream](#upstream)|
 |Ford|Kuga 2020-23|Adaptive Cruise Control with Lane Centering|[Upstream](#upstream)|
 |Ford|Kuga Hybrid 2020-23|Adaptive Cruise Control with Lane Centering|[Upstream](#upstream)|
 |Ford|Kuga Hybrid 2024|All|[Upstream](#upstream)|
@@ -93,7 +93,7 @@
 |Honda|Accord 2023-25|All|[Upstream](#upstream)|
 |Honda|Accord Hybrid 2017|All|[Community](#community)|
 |Honda|Accord Hybrid 2018-22|All|[Upstream](#upstream)|
-|Honda|Accord Hybrid 2023-25|All|[Upstream](#upstream)|
+|Honda|Accord Hybrid 2023-26|All|[Upstream](#upstream)|
 |Honda|City (Brazil only) 2023|All|[Upstream](#upstream)|
 |Honda|Civic 2016-18|Honda Sensing|[Upstream](#upstream)|
 |Honda|Civic 2019-21|All|[Upstream](#upstream)|
@@ -255,7 +255,7 @@
 |Mazda|CX-5 2022-25|All|[Upstream](#upstream)|
 |Mazda|CX-9 2016-20|All|[Dashcam mode](#dashcam)|
 |Mazda|CX-9 2021-23|All|[Upstream](#upstream)|
-|Nissan|Altima 2019-20, 2024|ProPILOT Assist|[Upstream](#upstream)|
+|Nissan|Altima 2019-24|ProPILOT Assist|[Upstream](#upstream)|
 |Nissan|Leaf 2018-23|ProPILOT Assist|[Upstream](#upstream)|
 |Nissan|Rogue 2018-20|ProPILOT Assist|[Upstream](#upstream)|
 |Nissan|X-Trail 2017|ProPILOT Assist|[Upstream](#upstream)|
